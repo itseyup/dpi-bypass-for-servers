@@ -37,5 +37,5 @@ Bu script, Ubuntu/Debian tabanlı bir VPS üzerine **Xray (V2Ray fork)** ile şu
 3. Aşağıdaki komutları çalıştırın:
 
 ```bash
-chmod +x install_xray.sh
-./install_xray.sh
+chmod +x install.sh
+./install.sh
